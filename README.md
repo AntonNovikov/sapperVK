@@ -5,3 +5,7 @@
 ### - npm run build
 
 [Play now](http://game.newtony.ru/sapper/)
+
+
+todo 
+Установка знаков на мобиле
