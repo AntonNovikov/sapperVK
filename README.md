@@ -4,4 +4,4 @@
 npm run dev
 npm run build
 
-[Play](http://game.newtony.ru/sapper/)
+[Play now](http://game.newtony.ru/sapper/)
