@@ -8,4 +8,4 @@
 
 
 todo 
-Установка знаков на мобиле
+set flag, bomb for mobile.
